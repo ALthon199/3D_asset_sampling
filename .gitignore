@@ -1,0 +1,5 @@
+logs/
+optimized_npz/
+assets/
+*.png
+__pycache__/
